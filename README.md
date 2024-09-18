@@ -1,5 +1,5 @@
-# JWA Capstone Project
-The Planetarium is a web application designed by Revature Space Initiative for astronomers to track celestial bodies they discover in the night sky. Development work on the application is progressing, and the company wants to capitalize on the work of the testers brought on to the project: your job this Sprint is to explore the source code of the planetarium and create Integration and Unit tests for the application. As a secondary goal, Revature Space Initiative wants your team to start development work on a DevOps pipeline to further automate the testing process.
+# Capstone Project
+The Planetarium is a web application designed by Example Space Initiative for astronomers to track celestial bodies they discover in the night sky. Development work on the application is progressing, and the company wants to capitalize on the work of the testers brought on to the project: your job this Sprint is to explore the source code of the planetarium and create Integration and Unit tests for the application. As a secondary goal, Example Space Initiative wants your team to start development work on a DevOps pipeline to further automate the testing process.
 
 ## Project Focus
 - Java
