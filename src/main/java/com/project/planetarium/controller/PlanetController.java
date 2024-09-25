@@ -1,10 +1,10 @@
-package com.revature.planetarium.controller;
+package com.project.planetarium.controller;
 
 import java.util.List;
 
-import com.revature.planetarium.entities.Planet;
-import com.revature.planetarium.exceptions.PlanetFail;
-import com.revature.planetarium.service.planet.PlanetService;
+import com.project.planetarium.entities.Planet;
+import com.project.planetarium.exceptions.PlanetFail;
+import com.project.planetarium.service.planet.PlanetService;
 
 import io.javalin.http.Context;
 

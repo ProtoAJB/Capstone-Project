@@ -1,4 +1,4 @@
-package com.revature.pom;
+package com.project.pom;
 
 import java.io.File;
 import java.time.Duration;

@@ -1,4 +1,4 @@
-package com.revature.planetarium.service.moon;
+package com.project.planetarium.service.moon;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -14,9 +14,10 @@ import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.Mockito;
 
-import com.revature.planetarium.entities.Moon;
-import com.revature.planetarium.exceptions.MoonFail;
-import com.revature.planetarium.repository.moon.MoonDao;
+import com.project.planetarium.entities.Moon;
+import com.project.planetarium.exceptions.MoonFail;
+import com.project.planetarium.repository.moon.MoonDao;
+import com.project.planetarium.service.moon.MoonServiceImp;
 
 public class MoonServiceImpUnitTest<T> {
 

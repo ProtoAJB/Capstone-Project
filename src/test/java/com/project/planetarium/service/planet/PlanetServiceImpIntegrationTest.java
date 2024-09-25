@@ -1,4 +1,4 @@
-package com.revature.planetarium.service.planet;
+package com.project.planetarium.service.planet;
 
 import org.junit.Assert;
 import org.junit.After;
@@ -6,11 +6,12 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import com.revature.Setup;
-import com.revature.planetarium.entities.Planet;
-import com.revature.planetarium.exceptions.PlanetFail;
-import com.revature.planetarium.repository.planet.PlanetDaoImp;
-import com.revature.planetarium.utility.DatabaseConnector;
+import com.project.Setup;
+import com.project.planetarium.entities.Planet;
+import com.project.planetarium.exceptions.PlanetFail;
+import com.project.planetarium.repository.planet.PlanetDaoImp;
+import com.project.planetarium.service.planet.PlanetServiceImp;
+import com.project.planetarium.utility.DatabaseConnector;
 
 import java.sql.Connection;
 import java.sql.SQLException;

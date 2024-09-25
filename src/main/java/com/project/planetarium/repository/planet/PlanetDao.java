@@ -1,9 +1,9 @@
-package com.revature.planetarium.repository.planet;
+package com.project.planetarium.repository.planet;
 
 import java.util.List;
 import java.util.Optional;
 
-import com.revature.planetarium.entities.Planet;
+import com.project.planetarium.entities.Planet;
 
 public interface PlanetDao {
 

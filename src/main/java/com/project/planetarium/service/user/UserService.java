@@ -1,6 +1,6 @@
-package com.revature.planetarium.service.user;
+package com.project.planetarium.service.user;
 
-import com.revature.planetarium.entities.User;
+import com.project.planetarium.entities.User;
 
 public interface UserService {
 

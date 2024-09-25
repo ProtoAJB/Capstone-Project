@@ -1,8 +1,8 @@
-package com.revature.planetarium.service.planet;
-
-import com.revature.planetarium.entities.Planet;
+package com.project.planetarium.service.planet;
 
 import java.util.List;
+
+import com.project.planetarium.entities.Planet;
 
 public interface PlanetService<T> {
 

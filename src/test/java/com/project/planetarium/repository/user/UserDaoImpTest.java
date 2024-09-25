@@ -1,4 +1,4 @@
-package com.revature.planetarium.repository.user;
+package com.project.planetarium.repository.user;
 
 import org.junit.After;
 import org.junit.Assert;
@@ -6,9 +6,10 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import com.revature.Setup;
-import com.revature.planetarium.entities.User;
-import com.revature.planetarium.exceptions.UserFail;
+import com.project.Setup;
+import com.project.planetarium.entities.User;
+import com.project.planetarium.exceptions.UserFail;
+import com.project.planetarium.repository.user.UserDaoImp;
 
 import java.sql.SQLException;
 

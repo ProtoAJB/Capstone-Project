@@ -1,8 +1,11 @@
-package com.revature.planetarium.repository.planet;
+package com.project.planetarium.repository.planet;
 
-import com.revature.Setup;
-import com.revature.planetarium.entities.Planet;
-import com.revature.planetarium.utility.DatabaseConnector;
+import com.project.Setup;
+import com.project.planetarium.entities.Planet;
+import com.project.planetarium.repository.planet.PlanetDao;
+import com.project.planetarium.repository.planet.PlanetDaoImp;
+import com.project.planetarium.utility.DatabaseConnector;
+
 import org.junit.*;
 
 import java.io.File;

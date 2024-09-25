@@ -1,6 +1,5 @@
-package com.revature.step;
+package com.project.step;
 
-import com.revature.TestRun;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -8,6 +7,8 @@ import org.junit.Assert;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+
+import com.project.TestRun;
 
 import java.time.Duration;
 

@@ -1,8 +1,8 @@
-package com.revature.planetarium.service.moon;
+package com.project.planetarium.service.moon;
 
 import java.util.List;
 
-import com.revature.planetarium.entities.Moon;
+import com.project.planetarium.entities.Moon;
 
 public interface MoonService<T> {
 

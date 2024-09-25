@@ -1,10 +1,13 @@
-package com.revature.planetarium.service.user;
+package com.project.planetarium.service.user;
 
-import com.revature.Setup;
-import com.revature.planetarium.entities.User;
-import com.revature.planetarium.exceptions.UserFail;
-import com.revature.planetarium.repository.user.UserDao;
-import com.revature.planetarium.repository.user.UserDaoImp;
+import com.project.Setup;
+import com.project.planetarium.entities.User;
+import com.project.planetarium.exceptions.UserFail;
+import com.project.planetarium.repository.user.UserDao;
+import com.project.planetarium.repository.user.UserDaoImp;
+import com.project.planetarium.service.user.UserService;
+import com.project.planetarium.service.user.UserServiceImp;
+
 import org.junit.*;
 import org.mockito.Mockito;
 

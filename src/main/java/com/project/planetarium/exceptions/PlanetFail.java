@@ -1,4 +1,4 @@
-package com.revature.planetarium.exceptions;
+package com.project.planetarium.exceptions;
 
 public class PlanetFail extends RuntimeException {
 

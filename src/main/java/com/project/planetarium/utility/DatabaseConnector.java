@@ -1,4 +1,4 @@
-package com.revature.planetarium.utility;
+package com.project.planetarium.utility;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

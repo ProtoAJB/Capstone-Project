@@ -1,11 +1,11 @@
-package com.revature.planetarium.service.moon;
-
-import com.revature.planetarium.entities.Moon;
-import com.revature.planetarium.exceptions.MoonFail;
-import com.revature.planetarium.repository.moon.MoonDao;
+package com.project.planetarium.service.moon;
 
 import java.util.List;
 import java.util.Optional;
+
+import com.project.planetarium.entities.Moon;
+import com.project.planetarium.exceptions.MoonFail;
+import com.project.planetarium.repository.moon.MoonDao;
 
 public class MoonServiceImp<T> implements MoonService<T> {
 

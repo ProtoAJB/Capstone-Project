@@ -1,11 +1,11 @@
-package com.revature.planetarium.service.planet;
-
-import com.revature.planetarium.entities.Planet;
-import com.revature.planetarium.exceptions.PlanetFail;
-import com.revature.planetarium.repository.planet.PlanetDao;
+package com.project.planetarium.service.planet;
 
 import java.util.List;
 import java.util.Optional;
+
+import com.project.planetarium.entities.Planet;
+import com.project.planetarium.exceptions.PlanetFail;
+import com.project.planetarium.repository.planet.PlanetDao;
 
 public class PlanetServiceImp<T> implements PlanetService<T> {
 

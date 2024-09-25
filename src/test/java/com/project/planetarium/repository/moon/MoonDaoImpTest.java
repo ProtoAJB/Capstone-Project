@@ -1,9 +1,11 @@
-package com.revature.planetarium.repository.moon;
+package com.project.planetarium.repository.moon;
 
-import com.revature.Setup;
-import com.revature.planetarium.entities.Moon;
-import com.revature.planetarium.entities.Planet;
-import com.revature.planetarium.exceptions.MoonFail;
+import com.project.Setup;
+import com.project.planetarium.entities.Moon;
+import com.project.planetarium.entities.Planet;
+import com.project.planetarium.exceptions.MoonFail;
+import com.project.planetarium.repository.moon.MoonDaoImp;
+
 import org.junit.*;
 
 import java.io.File;

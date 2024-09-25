@@ -1,9 +1,9 @@
-package com.revature.planetarium.controller;
+package com.project.planetarium.controller;
 
-import com.revature.planetarium.entities.User;
-import com.revature.planetarium.exceptions.AuthenticationFailed;
-import com.revature.planetarium.exceptions.UserFail;
-import com.revature.planetarium.service.user.UserService;
+import com.project.planetarium.entities.User;
+import com.project.planetarium.exceptions.AuthenticationFailed;
+import com.project.planetarium.exceptions.UserFail;
+import com.project.planetarium.service.user.UserService;
 
 import io.javalin.http.Context;
 

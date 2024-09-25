@@ -1,4 +1,4 @@
-package com.revature.planetarium.controller;
+package com.project.planetarium.controller;
 
 import org.junit.After;
 import org.junit.Before;

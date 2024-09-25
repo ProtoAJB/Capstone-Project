@@ -1,6 +1,6 @@
-package com.revature.planetarium;
+package com.project.planetarium;
 
-import com.revature.planetarium.utility.JavalinSetup;
+import com.project.planetarium.utility.JavalinSetup;
 
 import io.javalin.Javalin;
 

@@ -1,8 +1,8 @@
-package com.revature.planetarium.repository.user;
+package com.project.planetarium.repository.user;
 
 import java.util.Optional;
 
-import com.revature.planetarium.entities.User;
+import com.project.planetarium.entities.User;
 
 public interface UserDao {
 

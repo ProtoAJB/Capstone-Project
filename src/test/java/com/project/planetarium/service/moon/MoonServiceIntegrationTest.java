@@ -1,4 +1,4 @@
-package com.revature.planetarium.service.moon;
+package com.project.planetarium.service.moon;
 
 import java.util.Collections;
 import java.util.List;
@@ -11,12 +11,14 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import com.revature.Setup;
-import com.revature.planetarium.entities.Moon;
-import com.revature.planetarium.exceptions.MoonFail;
-import com.revature.planetarium.repository.moon.MoonDao;
-import com.revature.planetarium.repository.moon.MoonDaoImp;
-import com.revature.planetarium.utility.DatabaseConnector;
+import com.project.Setup;
+import com.project.planetarium.entities.Moon;
+import com.project.planetarium.exceptions.MoonFail;
+import com.project.planetarium.repository.moon.MoonDao;
+import com.project.planetarium.repository.moon.MoonDaoImp;
+import com.project.planetarium.service.moon.MoonService;
+import com.project.planetarium.service.moon.MoonServiceImp;
+import com.project.planetarium.utility.DatabaseConnector;
 
 public class MoonServiceIntegrationTest<T> {
 

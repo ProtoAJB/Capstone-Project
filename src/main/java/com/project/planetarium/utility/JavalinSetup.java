@@ -1,22 +1,22 @@
-package com.revature.planetarium.utility;
+package com.project.planetarium.utility;
 
-import com.revature.planetarium.controller.MoonController;
-import com.revature.planetarium.controller.PlanetController;
-import com.revature.planetarium.controller.UserController;
-import com.revature.planetarium.controller.ViewController;
-import com.revature.planetarium.exceptions.AuthenticationFailed;
-import com.revature.planetarium.repository.moon.MoonDao;
-import com.revature.planetarium.repository.moon.MoonDaoImp;
-import com.revature.planetarium.repository.planet.PlanetDao;
-import com.revature.planetarium.repository.planet.PlanetDaoImp;
-import com.revature.planetarium.repository.user.UserDao;
-import com.revature.planetarium.repository.user.UserDaoImp;
-import com.revature.planetarium.service.moon.MoonService;
-import com.revature.planetarium.service.moon.MoonServiceImp;
-import com.revature.planetarium.service.planet.PlanetService;
-import com.revature.planetarium.service.planet.PlanetServiceImp;
-import com.revature.planetarium.service.user.UserService;
-import com.revature.planetarium.service.user.UserServiceImp;
+import com.project.planetarium.controller.MoonController;
+import com.project.planetarium.controller.PlanetController;
+import com.project.planetarium.controller.UserController;
+import com.project.planetarium.controller.ViewController;
+import com.project.planetarium.exceptions.AuthenticationFailed;
+import com.project.planetarium.repository.moon.MoonDao;
+import com.project.planetarium.repository.moon.MoonDaoImp;
+import com.project.planetarium.repository.planet.PlanetDao;
+import com.project.planetarium.repository.planet.PlanetDaoImp;
+import com.project.planetarium.repository.user.UserDao;
+import com.project.planetarium.repository.user.UserDaoImp;
+import com.project.planetarium.service.moon.MoonService;
+import com.project.planetarium.service.moon.MoonServiceImp;
+import com.project.planetarium.service.planet.PlanetService;
+import com.project.planetarium.service.planet.PlanetServiceImp;
+import com.project.planetarium.service.user.UserService;
+import com.project.planetarium.service.user.UserServiceImp;
 
 import io.javalin.Javalin;
 

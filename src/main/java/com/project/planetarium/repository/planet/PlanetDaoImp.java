@@ -1,4 +1,4 @@
-package com.revature.planetarium.repository.planet;
+package com.project.planetarium.repository.planet;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -10,9 +10,9 @@ import java.util.Base64;
 import java.util.List;
 import java.util.Optional;
 
-import com.revature.planetarium.entities.Planet;
-import com.revature.planetarium.exceptions.PlanetFail;
-import com.revature.planetarium.utility.DatabaseConnector;
+import com.project.planetarium.entities.Planet;
+import com.project.planetarium.exceptions.PlanetFail;
+import com.project.planetarium.utility.DatabaseConnector;
 
 public class PlanetDaoImp implements PlanetDao {
 

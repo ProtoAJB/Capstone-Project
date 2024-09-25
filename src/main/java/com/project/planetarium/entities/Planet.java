@@ -1,4 +1,4 @@
-package com.revature.planetarium.entities;
+package com.project.planetarium.entities;
 
 import java.util.Base64;
 

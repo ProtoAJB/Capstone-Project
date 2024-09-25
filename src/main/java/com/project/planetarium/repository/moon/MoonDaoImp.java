@@ -1,4 +1,4 @@
-package com.revature.planetarium.repository.moon;
+package com.project.planetarium.repository.moon;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -10,9 +10,9 @@ import java.util.Base64;
 import java.util.List;
 import java.util.Optional;
 
-import com.revature.planetarium.entities.Moon;
-import com.revature.planetarium.exceptions.MoonFail;
-import com.revature.planetarium.utility.DatabaseConnector;
+import com.project.planetarium.entities.Moon;
+import com.project.planetarium.exceptions.MoonFail;
+import com.project.planetarium.utility.DatabaseConnector;
 
 public class MoonDaoImp implements MoonDao {
 

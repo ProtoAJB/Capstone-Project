@@ -1,4 +1,4 @@
-package com.revature.planetarium.repository.user;
+package com.project.planetarium.repository.user;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -7,9 +7,9 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Optional;
 
-import com.revature.planetarium.entities.User;
-import com.revature.planetarium.exceptions.UserFail;
-import com.revature.planetarium.utility.DatabaseConnector;
+import com.project.planetarium.entities.User;
+import com.project.planetarium.exceptions.UserFail;
+import com.project.planetarium.utility.DatabaseConnector;
 
 public class UserDaoImp implements UserDao {
 

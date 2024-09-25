@@ -1,4 +1,4 @@
-package com.revature.planetarium.entities;
+package com.project.planetarium.entities;
 
 public class User {
 

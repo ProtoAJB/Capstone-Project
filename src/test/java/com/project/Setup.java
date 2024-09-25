@@ -1,4 +1,4 @@
-package com.revature;
+package com.project;
 
 import org.sqlite.SQLiteConfig;
 

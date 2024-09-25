@@ -1,10 +1,10 @@
-package com.revature.planetarium.service.user;
+package com.project.planetarium.service.user;
 
 import java.util.Optional;
 
-import com.revature.planetarium.entities.User;
-import com.revature.planetarium.exceptions.UserFail;
-import com.revature.planetarium.repository.user.UserDao;
+import com.project.planetarium.entities.User;
+import com.project.planetarium.exceptions.UserFail;
+import com.project.planetarium.repository.user.UserDao;
 
 public class UserServiceImp implements UserService {
 

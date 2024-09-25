@@ -1,13 +1,14 @@
-package com.revature.planetarium.service.planet;
+package com.project.planetarium.service.planet;
 
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mockito;
 
-import com.revature.planetarium.entities.Planet;
-import com.revature.planetarium.exceptions.PlanetFail;
-import com.revature.planetarium.repository.planet.PlanetDaoImp;
+import com.project.planetarium.entities.Planet;
+import com.project.planetarium.exceptions.PlanetFail;
+import com.project.planetarium.repository.planet.PlanetDaoImp;
+import com.project.planetarium.service.planet.PlanetServiceImp;
 
 import java.util.ArrayList;
 import java.util.Collections;
